@@ -9,6 +9,9 @@ The DBSCAN (Density-Based Spatial Clustering of Applications with Noise) algorit
    Results of clustering using DBSCAN algorithm
 ## Tarjan’s SCC algorithm
 This algorithm allows to find strongly connected components in directed graphs. For more information see [here](https://en.wikipedia.org/wiki/Tarjan%27s_strongly_connected_components_algorithm). 
-<br>The image below provides a visual representation of the results of applying DBSCAN algorithm and  Tarjan’s SCC algorithm.
+
+The image below provides a visual representation of the results of applying DBSCAN algorithm and  Tarjan’s SCC algorithm.
+
 <img src="images/scc_results.jpg" alt="drawing" width="400"/>
+
 <br>  Strongly connected components found by Tarjan’s SCC algorithm (black arrows) and clustering using DBSCAN algorithm (colored points).
